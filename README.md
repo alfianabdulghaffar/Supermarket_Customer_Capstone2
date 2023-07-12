@@ -1,2 +1,0 @@
-# Supermarket_Customer_Capstone2
-Supermarket_Customer_Capstone2
